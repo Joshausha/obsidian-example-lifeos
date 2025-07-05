@@ -1,6 +1,8 @@
 ## Project List
 %%A snapshot of the project today%%
-<% LifeOS.Project.snapshot() %>
+1. [[Obsidian/1. Projects/Antibiotic Learning app/README|Antibiotic Learning app]]
+2. [[Obsidian/1. Projects/PARA_FINAL_SOLUTION/README|PARA_FINAL_SOLUTION]]
+3. [[Obsidian/1. Projects/serena/README|serena]]
 
 ## Daily Record
 %%Your Record%%

@@ -6,7 +6,8 @@
 
 ## Priority First Dimension
 %%A snapshot of the area this quarter%%
-<% LifeOS.Area.snapshot() %>
+1. [[Obsidian/2. Areas/Residency /Work.README|Residency ]]
+2. [[Obsidian/2. Areas/parenting/parenting.README|parenting]]
 
 ## Role Dimension
 ### Employee
